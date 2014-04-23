@@ -9,11 +9,10 @@ Data catalog
 | TriMet Developer Site | [Link](http://developer.trimet.org) | TriMet data APIs and GIS data | | Transportation |
 | Metro RLIS | [Link](http://rlisdiscovery.oregonmetro.gov/) | GIS data, such as: ... | Well-maintained, but not all of its data is open |
 | TIGER | [Link](http://www.census.gov/geo/maps-data/data/tiger-line.html) | GIS boundary data | Updated yearly, can be hard to process | Equity |
+| GIS Shape files - Multnomah County Precincts | [Link](http://web.multco.us/sites/default/files/elections/documents/multcoprecincts2013.zip) | GIS | | Elections |
+| Oregon Geospatial Enterprise Office (GEO) Spatial Data Library - Alphabetical List | [Link](http://www.oregon.gov/DAS/CIO/GEO/pages/alphalist.aspx) | GIS | | Various |
+| UO Library Maps and GIS Resources: State of Oregon, County Level | [Link](http://library.uoregon.edu/map/or/gis_or_county.htm) | GIS | | Various |
+| Oregon State Elected Officials | [Link](http://sos.oregon.gov/elections/Pages/stateofficials.aspx) | | | Elections |
+| Oregon County Clerks | [Link](http://sos.oregon.gov/elections/Pages/countyofficials.aspx) | | | Elections |
+| Statewide Landslide Information Database for Oregon (SLIDO-2) | [Link](http://www.oregongeology.org/sub/slido/index.htm) | GIS | | Various |
 | Add more here and below! |  |  |  |
-| GIS Shape files - Multnomah County Precincts | http://web.multco.us/sites/default/files/elections/documents/multcoprecincts2013.zip | | | HackOregon / BallotPath |
-| Oregon Geospatial Enterprise Office (GEO) Spatial Data Library - Alphabetical List | http://www.oregon.gov/DAS/CIO/GEO/pages/alphalist.aspx | | | Various |
-| UO Library Maps and GIS Resources: State of Oregon, County Level | http://library.uoregon.edu/map/or/gis_or_county.htm | | | Various |
-| Oregon State Elected Officials | http://sos.oregon.gov/elections/Pages/stateofficials.aspx | | | HackOregon / BallotPath |
-| Oregon County Clerks | http://sos.oregon.gov/elections/Pages/countyofficials.aspx | | | HackOregon / BallotPath |
-| Statewide Landslide Information Database for Oregon (SLIDO-2) | http://www.oregongeology.org/sub/slido/index.htm | | | Various |
-
