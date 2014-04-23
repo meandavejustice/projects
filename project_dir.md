@@ -1,6 +1,11 @@
 Project Directory
 =============
 
+Please feel free to:
+
+1. Create a markdown page just about your project (in the "projects" folder), and link to it below, or
+2. Link to an existing repo, or 
+3. We can help you create a repo under Code for Portland for your project
 
 | Project name and description | Link | Main contact | Status |
 | ---------------------------- | ---- | ------------ | ------ |
