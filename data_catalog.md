@@ -15,4 +15,5 @@ Data catalog
 | UO Library Maps and GIS Resources: State of Oregon, County Level | http://library.uoregon.edu/map/or/gis_or_county.htm | | | Various |
 | Oregon State Elected Officials | http://sos.oregon.gov/elections/Pages/stateofficials.aspx | | | HackOregon / BallotPath |
 | Oregon County Clerks | http://sos.oregon.gov/elections/Pages/countyofficials.aspx | | | HackOregon / BallotPath |
+| Statewide Landslide Information Database for Oregon (SLIDO-2) | http://www.oregongeology.org/sub/slido/index.htm | | | Various |
 
