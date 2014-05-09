@@ -9,7 +9,7 @@ Please feel free to:
 
 | Project name and description | Link | Main contact | Status |
 | ---------------------------- | ---- | ------------ | ------ |
-| _Example project: [Description markdown page (more info here)](https://github.com/CodeForPortland/project-index/blob/master/projects/example_project.md) | [Github repo](http://github.com/CodeForPortland/example)_ | _[John Doe](mailto:johndoe@example.com)_ | _In progress_ | 
+| _Example project: [Description markdown page (more info here)](https://github.com/CodeForPortland/project-index/blob/master/projects/example_project.md)_ | _[Github repo](http://github.com/CodeForPortland/example)_ | _[John Doe](mailto:johndoe@example.com)_ | _In progress_ | 
 | NextPDX | [Github repo](https://github.com/reedlauber/next-transit) | [Reed Lauber](mailto:reedlauber@gmail.com) | In progress | 
 | Hack Oregon's Campaign finance project: What is happening with campaign spending in Oregon? We're building the technology to allow anyone to answer that question. | [Website](http://www.hackoregon.org/landing-1/) | [Catherine Nikolovski](mailto:catherine@hackoregon.org) | In progress |
 | PDX Reporter app: Code for Portland contacted the city about having the community help update it for iOS 7 | [Website](https://www.portlandoregon.gov/bts/article/419529) [Source code](https://code.google.com/p/pdxiphoneapp/)  | [@CodeForPortland](https://twitter.com/CodeforPortland) | Scoping |
