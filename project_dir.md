@@ -16,7 +16,7 @@ Please feel free to:
 | Revive the Portland Crime site: Waiting for help to fix an API link, see [https://github.com/Caged/portlandcrime/issues/4](https://github.com/Caged/portlandcrime/issues/4) | [Github repo](https://github.com/Caged/portlandcrime) | *Needs a project leader!* | Scoping | 
 | Port/extend "What's My District" to Portland, which helps folks find their government leaders. Perhaps combine with/include in Hack Oregon's BallotPath project? | [Github repo](https://github.com/openlexington/WhatsMyDistrict) | *Needs a project leader!* | Scoping | 
 | Realtime Bridge Status: Get a feed of scheduled raising/lowering of the various bridges. And as well, a way to directly query the current state of each bridge. | [CivicApps idea](http://www.civicapps.org/ideas/realtime-bridge-status-feed-or-dataset) | Someone is working on this, who is it? | Scoping |
-| City Council Report Bot | [Github repo](https://github.com/Caged/council-report) | [autonome](http://github.com/autonome) | In progress |
+| City Council Agenda Bot - publish weekly city council agenda to online communities. [Plan and status](https://cfp-ndoch2014.hackpad.com/PDXCityCouncilAgenda-8Z3qqD2b40v) | [Github repo](https://github.com/Caged/council-report) | [autonome](http://github.com/autonome) | In progress |
 | Add more here and below! | | | | 
 
 ###Possible statuses:
