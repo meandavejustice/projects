@@ -20,6 +20,7 @@ Please feel free to:
 | Revive the Portland Crime site: Waiting for a PR to fix an API link, see [https://github.com/Caged/portlandcrime/issues/4](https://github.com/Caged/portlandcrime/issues/4) | [Github repo](https://github.com/Caged/portlandcrime) | *Needs a project leader!* | ? |
 | Realtime Bridge Status: Get a feed of scheduled raising/lowering of the various bridges. And as well, a way to directly query the current state of each bridge. | [CivicApps idea](http://www.civicapps.org/ideas/realtime-bridge-status-feed-or-dataset) | Someone is working on this, who is it? | ? |
 | NextPDX - multi-city transit app | [Github repo](https://github.com/reedlauber/next-transit) | [Reed Lauber](mailto:reedlauber@gmail.com) | ? |
+| PDX Council Minutes Data Analysis | [Github Repo](https://github.com/Ropes/PDX-Council-Minutes-Data) | [Josh Roppo](https://github.com/Ropes) | Web and PDF text extraction system completed; yielded mutilated text. Contacting PDX City employee to see if there's a better format available. |
 | Add more here and below! | | | |
 
 ###Possible statuses:
