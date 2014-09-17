@@ -1,0 +1,20 @@
+---
+layout: default
+title: Home
+---
+
+<div class="projects">
+  {% for project in site.projects %}
+  <div class="project">
+    <h2 class="project-name"><a href="{{ site.baseurl }}{{ project.url }}">{{ project.name }}</a></h2>
+
+    {% if project.description %}
+    <span class="project-description">{{ project.description }}</span>
+    {% endif %}
+    
+    {% if project.contact %}
+    <span class="project-contact">{{ project.contact }}</span>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="project">
+  <h1 class="project-name">{{ page.name }}</h1>
+
+  {% for projects in site.projects %}
+  
+  {% if project.name %}
+  <a class="project-name" href="{{ project.link }}">{{ project.name }}</a>
+  {% endif %}
+
+  {% if project.description %}
+  <p class="project-description">{{ project.description }}</p>
+  {% endif %}
+
+  {% if project.contact %}
+  <span class="project-contact">{{ project.contact }}</span>
+  {% endif %}
+
+  {% if project.status %}
+  <span class="project-status">{{ project.status }}</span>
+  {% endif %}
+  
+  {% for endif %}
+
+</div>

@@ -1,0 +1,40 @@
+# Permalinks
+permalink:        /:title
+
+# Setup
+title:            Code for Portland
+url:              /
+baseurl:          '/projects'
+paginate:         5
+
+author:
+  name:           'Code for Portland'
+  url:            https://codeforportland.org
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/CodeForPortland/projects
+
+# Extra
+safe:             true #replicate gh-pages env
+timezone:         America/Los_Angeles
+encoding:         utf-8
+
+# fix for weird travis-ci build error
+# http://www.markcampbell.me/jekyll/heroku/2013/05/18/how-to-set-up-jekyll-on-heroku.html
+exclude:          ["vendor"]
+
+collections:
+  projects:
+    permalink: /:path/
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
